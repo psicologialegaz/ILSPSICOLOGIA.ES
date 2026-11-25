@@ -5,8 +5,14 @@ Código fuente de la web de Ianire Legaz.
 ## Estructura
 
 - `dist/index.html`: página completa, estilos y JavaScript.
-- `dist/assets/hero-consulta.webp`: imagen principal.
+- `dist/hero-consulta.webp`: imagen principal.
 - `.openai/hosting.json`: configuración del proyecto en ChatGPT Sites.
+- <div style="margin-bottom: 24px; text-align: center;">
+  <img src="Iani.jpeg" 
+       alt="Ianire Legaz Sagarzazu, Psicóloga General Sanitaria" 
+       style="width: 240px; height: 240px; object-fit: cover; border-radius: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);" />
+</div>
+
 
 ## Abrir la web
 
